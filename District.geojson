@@ -1,0 +1,324 @@
+{"type":"FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "District Hospital",
+        "description": "It is a Government hospital in Bagalkote District which is one of the  Designated Covid-19 hospital.Total Beds:257 ."
+      },
+      "geometry": {
+        "coordinates": [-87.637596, 41.940403],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "District Hospital,Bellary",
+        "description": "It is a Government hospital in Bellary District which is one of the  Designated Covid-19 hospital.Total Beds:257 ."
+      },
+      "geometry": {
+        "coordinates": [76.934863, 15.144396],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bowring Medical college,Bangalore(public)",
+        "description": "It is a Government hospital in Bangalore Urban District which is one of the  Designated Covid-19 hospital.Total Beds:260 ."
+      },
+      "geometry": {
+        "coordinates": [77.604056, 12.982177],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rajarajeshwari Medical College,Bangalore(private)",
+        "description": "Private Hospital in Kengeri,Bangalore which is one of the Designated Covid-19 hospital.Total Beds:800"
+      },
+      "geometry": {
+        "coordinates": [77.461902,12.896184],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Victoria Hospital,Bangalore(Public)",
+        "description": "It is one of the best Government hospital in Bangalore Urban District and the  Designated Covid-19 hospital.Total Beds:900 ."
+      },
+      "geometry": {
+        "coordinates": [77.573816, 12.963555],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "CIMS,Chamarajanagar(Public)",
+        "description": "It is a Government hospital in Bidar District which is one of the  Designated Covid-19 hospital.Total Beds:300 ."
+      },
+      "geometry": {
+        "coordinates": [76.874802, 11.900173],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "District Hospital,Chikkaballapur(Public)",
+        "description": "It is a Government hospital in Bidar District which is one of the  Designated Covid-19 hospital.Total Beds:300 ."
+      },
+      "geometry": {
+        "coordinates": [77.725176,13.436063],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mallegowda Distric Hospital,Chikkamangalur(Public)",
+        "description": "It is a Government hospital in Chikkamangalur District which is one of the  Designated Covid-19 hospital.Total Beds:400 ."
+      },
+      "geometry": {
+        "coordinates": [75.774599, 13.314294],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "District Hospital,Chitradurga(Public)",
+        "description": "It is a Government hospital in Chitradurga District which is one of the  Designated Covid-19 hospital.Total Beds:450."
+      },
+      "geometry": {
+        "coordinates": [76.405825,14.220598],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chigateri Hospital,Davanagere(Public)",
+        "description": "It is a Government hospital in Davanagere District which is one of the  Designated Covid-19 hospital.Total Beds:930 ."
+      },
+      "geometry": {
+        "coordinates": [75.916984, 14.457558],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "KIMS,Dharward(Public)",
+        "description": "It is a Government hospital in Dharward District which is one of the  Designated Covid-19 hospital.Total Beds:250 ."
+      },
+      "geometry": {
+        "coordinates": [75.130784, 15.362004],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Wenlock Hospital,DK District(public)",
+        "description": "It is a Government hospital in Dakshina Kannada District which is one of the  Designated Covid-19 hospital.Total Beds:905."
+      },
+      "geometry": {
+        "coordinates": [74.843034, 12.867644],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "GIMS,Gadag(Public)",
+        "description": "It is a Government hospital in Gadag District which is one of the  Designated Covid-19 hospital.Total Beds:250 ."
+      },
+      "geometry": {
+        "coordinates": [75.602061, 15.378768],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "HIMS,Hassan(Public)",
+        "description": "It is a Government hospital in Hassan District which is one of the  Designated Covid-19 hospital.Total Beds:750 ."
+      },
+      "geometry": {
+        "coordinates": [ 76.102644, 13.005188],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "District Hospital,Haveri(Public)",
+        "description": "It is a Government hospital in Haveri District which is one of the  Designated Covid-19 hospital.Total Beds:330 ."
+      },
+      "geometry": {
+        "coordinates": [75.396435, 14.791292],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ESIC Medical College Kalaburagi(Public)",
+        "description": "It is a Government hospital in Kalaburagi District which is one of the  Designated Covid-19 hospital.Total Beds:530 ."
+      },
+      "geometry": {
+        "coordinates": [76.873465,17.321709],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kodagu Institute of Medical Science,Kodagu(Public)",
+        "description": "It is a Government hospital in Kodagu District which is one of the  Designated Covid-19 hospital.Total Beds:300."
+      },
+      "geometry": {
+        "coordinates": [75.740321, 12.441665],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "District Hospital,Kolar(Public)",
+        "description": "It is a Government hospital in Kolar District which is one of the  Designated Covid-19 hospital.Total Beds:500."
+      },
+      "geometry": {
+        "coordinates": [78.134351, 13.129246],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "KIMS,Koppala (Public)",
+        "description": "It is a Government hospital in Koppala District which is one of the  Designated Covid-19 hospital.Total Beds:300 ."
+      },
+      "geometry": {
+        "coordinates": [76.184520, 15.352088],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "MIMS,Mandya (Public)",
+        "description": "It is a Government hospital in Mandya which is one of the  Designated Covid-19 hospital.Total Beds:650 ."
+      },
+      "geometry": {
+        "coordinates": [76.900925,12.527324],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mysore District Hospital(Public)",
+        "description": "It is a Government hospital in Mysore District which is one of the  Designated Covid-19 hospital.Total Beds:300 ."
+      },
+      "geometry": {
+        "coordinates": [76.628033,12.349182],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rajiv Gandhi Superspeciality Hospital,Raichur(Public)",
+        "description": "Hospital in Raichur District which is one of the  Designated Covid-19 hospital.Total Beds:150 ."
+      },
+      "geometry": {
+        "coordinates": [77.348020,16.205496],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kandhya bhavana,Ramnagara(Public)",
+        "description": "Dedicated Covid-19 center."
+      },
+      "geometry": {
+        "coordinates": [77.286921, 12.729359],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Mc Gann Hospital,Shivamogga(Public)",
+        "description": "It is a Government hospital in Shimoga District which is one of the  Designated Covid-19 hospital.Total Beds:350 ."
+      },
+      "geometry": {
+        "coordinates": [75.562858, 13.935312],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "District Hospital,Tumkuru(Public)",
+        "description": "It is a Government hospital in Tumkuru District which is one of the  Designated Covid-19 hospital.Total Beds:400 ."
+      },
+      "geometry": {
+        "coordinates": [77.100011, 13.339999],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Karwar Institue of Medical Science,UK(Oublic)",
+        "description": "It is a Government hospital in Uttar Kannada District which is one of the  Designated Covid-19 hospital.Total Beds:235 ."
+      },
+      "geometry": {
+        "coordinates": [74.129178, 14.817222],
+        "type": "Point"
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Dr.TMA Pai Hospital,Udupi",
+        "description": "It is a Private hospital in Udupi,which is one of the Designated Covid-19 hospital.Total Beds:100 ."
+      },
+      "geometry": {
+        "coordinates": [74.747143, 13.332520],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Distric Hospital, Vijayapura(Public)",
+        "description": "It is a Government hospital in Vijayapura District which is one of the Designated Covid-19 hospital.Total Beds:426 ."
+      },
+      "geometry": {
+        "coordinates": [75.693117, 16.826647],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Distric Hospital, Yadgiri(Public)",
+        "description": "It is a Government hospital in Yadgiri District which is one of the Designated Covid-19 hospital.Total Beds:250 ."
+      },
+      "geometry": {
+        "coordinates": [77.132758, 16.746957],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
